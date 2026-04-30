@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/custom_player/s/walterwhite/Glass"
+	"$alphatest" 1
+	"$nocull" 1
+	"$translucent" 1
+}

@@ -1,0 +1,18 @@
+"EyeRefract"
+{
+	"$Iris"					"models/player/custom_player/s/leonre9/eyeball"
+	"$AmbientOcclTexture"	"vgui/white"
+	"$Envmap"				"Engine/eye-reflection-cubemap-"
+	"$CorneaTexture"		"dev/flat_normal"
+
+	"$EyeballRadius" 		"0.5"
+	"$AmbientOcclColor" 	"[1 1 1]"
+	"$Dilation" 			"0.5"
+	"$ParallaxStrength" 	"0.55"
+	"$CorneaBumpStrength" 	"0"
+
+	"$RaytraceSphere" 		"0"
+	"$SphereTexkillCombo" 	"0"
+
+	"$NoDecal" "1"
+}

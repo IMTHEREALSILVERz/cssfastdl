@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture"			 "models/player/custom_player/s/leonre9/Hair"
+	"$bumpmap"				 "models/player/custom_player/s/leonre9/Hair_normal"
+
+    "$color2" "[.47 .43 .4]"
+	"$alphatest" "1"
+	"$allowAlphaToCoverage" "1"
+	"$nodecal" "1"
+	"$nocull" "1"
+}

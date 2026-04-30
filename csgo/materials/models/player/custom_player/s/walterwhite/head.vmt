@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/custom_player/s/walterwhite/Head"
+	//"$bumpmap" "models/models/custom_player/s/walterwhite/HeadN"
+}

@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\player\olaf\miku\demonessmiku3\pento"
+	"$alphatest" 1
+}

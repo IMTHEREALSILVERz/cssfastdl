@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\player\olaf\miku\demonessmiku3\tufli"
+	"$envmap"   "env_cubemap" 
+  	"$normalmapalphaenvmapmask"   "1"
+  	"$envmaptint"   "[.1 .1 .1]"	
+	"$halflambert" "1"
+	"$selfillum" "1"
+	"$selfillumtint" 2 2 2	
+}

@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture"               "models\player\custom_player\s\macri\Macri_Eyes_Diff"
+	"$halflambert" "1"
+	"$nodecal" "1"
+	"$phong"	"1"
+	"$phongboost" "2"
+	"$phongexponent" "15"
+	"$phongfresnelranges" "[.2 .5 1]"
+}

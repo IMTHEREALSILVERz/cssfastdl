@@ -1,8 +1,8 @@
 "VertexLitGeneric"
 {
-	"$basetexture" 		"models/Lenoax/MauricioMacri/Macri_Hair_Diff"
-	"$bumpmap" 		"models/Lenoax/MauricioMacri/Macri_Hair_Normal"
-	"$lightwarptexture" 	"models/Lenoax/MauricioMacri/base_m_caucasian_wrp"
+	"$basetexture" 		"models\player\custom_player\s\macri\Macri_Hair_Diff"
+	"$bumpmap" 		"models\player\custom_player\s\macri\Macri_Hair_Normal"
+	"$lightwarptexture" 	"models\player\custom_player\s\macri\base_m_caucasian_wrp"
 
 	"$AmbientOcclusion" "0"
 

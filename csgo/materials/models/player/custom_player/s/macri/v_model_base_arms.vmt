@@ -1,8 +1,8 @@
 "VertexLitGeneric"
 {
-	"$basetexture"			"models\Lenoax\MauricioMacri/v_model_base_arms_color"
-	"$bumpmap"			"models\Lenoax\MauricioMacri/v_model_base_arms_Normal"
-	"$lightwarptexture" 		"models\Lenoax\MauricioMacri/base_m_caucasian_wrp"			
+	"$basetexture"			"models\player\custom_player\s\macri\v_model_base_arms_color"
+	"$bumpmap"			"models\player\custom_player\s\macri\v_model_base_arms_Normal"
+	"$lightwarptexture" 		"models\player\custom_player\s\macri\base_m_caucasian_wrp"			
 
 	"$phong" "1"						
 	"$phongboost" "0.02"

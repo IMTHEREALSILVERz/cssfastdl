@@ -1,0 +1,23 @@
+"VertexLitGeneric"
+{
+	"$basetexture"			 "models/player/custom_player/s/leonre9/Arm01_Virus01"
+	"$bumpmap"				 "models/player/custom_player/s/leonre9/Arm01_Virus01_normal"
+	"$phongexponenttexture"	 "models/player/custom_player/s/leonre9/Arm01_Virus01_roughness"
+
+	"$color2" "[0.92 0.92 0.92]"
+
+	"$phong" "1"
+//	"$phongexponent" "10"
+	"$phongboost" "1"
+	"$phongalbedotint" "1"
+	"$phongalbedoboost" "10"
+	"$phongfresnelranges" "[1 1 1]"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "100"
+	"$rimmask" "1"
+	"$rimlightboost" "0.25"
+
+	"$nodecal" "1"
+	"$nocull" "1"
+}

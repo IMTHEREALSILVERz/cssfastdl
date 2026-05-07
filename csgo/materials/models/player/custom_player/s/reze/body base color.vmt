@@ -1,0 +1,22 @@
+VertexLitGeneric
+{
+	$basetexture "models/player/custom_player/s/reze/body base color"
+	$bumpmap "models/player/custom_player/s/reze/an"
+
+	$lightwarptexture "models/player/custom_player/s/reze/basewarp"
+
+	$alphatest 1
+	$nocull 1
+
+	$phong 1
+	$phongexponenttexture "models/player/custom_player/s/reze/_phong_exp"
+	$phongfresnelranges "[1 0.1 0.1]"
+	$halflambert 1
+	$phongalbedotint 1
+	$phongboost 0.02
+
+	$nodecal 1
+
+	$allowalphatocoverage 1
+	$model 1
+}
